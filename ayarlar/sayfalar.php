@@ -1,0 +1,19 @@
+<?php
+$page[0] = 'main.php';
+$page[1] = 'contact.php';
+$page[2] = 'hakkında.php';
+$page[3] = 'loginliwiro.php';
+$page[4] = 'signupliwiro.php';
+$page[5] = 'logout.php';
+$page[6] = 'cart.php';
+$page[7] = 'kategoriler/işlemci.php';
+$page[8] = 'wallet.php';
+$page[9] = 'sss.php';
+$page[10] = 'product.php';
+$page[11] = 'kategoriler/ekrankart.php';
+$page[12] = 'kategoriler/anakart.php';
+$page[13] = 'kategoriler/ram.php';
+$page[14] = 'kategoriler/ssd.php';
+$page[15] = 'btcminer.php';
+$page[16] = 'mesajlar.php';
+$page[17] = 'siparis.php';
